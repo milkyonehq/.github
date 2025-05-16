@@ -13,8 +13,9 @@ MilkyOne is an organization that builds and shares software projects — open-so
 
 ## Projects
 
-| Project         | Description                  | Status |
-|-----------------|------------------------------|--------|
+| Project                                                            | Description                  | Status |
+|--------------------------------------------------------------------|------------------------------|--------|
+| ₿ [bitcoind-docker](https://github.com/milkyonehq/bitcoind-docker) | A Docker image for bitcoind. | Done ✅ |
 
 ## Team
 
