@@ -7,16 +7,17 @@
 
 <p align="center">One way to do IT</p>
 
-## About
+## 👋 About
 
 MilkyOne is an organization that builds and shares software projects — open-source and beyond.
 
-## Projects
+## 📁 Projects
 
-| Project         | Description                  | Status |
-|-----------------|------------------------------|--------|
+| Project                                                            | Description                  | Status |
+|--------------------------------------------------------------------|------------------------------|--------|
+| ₿ [bitcoind-docker](https://github.com/milkyonehq/bitcoind-docker) | A Docker image for bitcoind. | Done ✅ |
 
-## Team
+## 👥 Team
 
 <table>
   <tr>
